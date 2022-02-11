@@ -1,0 +1,10 @@
+﻿  compressor.cpp
+C:\Users\User\source\repos\lz77-V3\lz77-V3\compressor.cpp(188,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\lz77-V3\lz77-V3\compressor.cpp(189,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lz77-V3\lz77-V3\compressor.cpp(260,21): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\User\source\repos\lz77-V3\lz77-V3\compressor.cpp(188,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\lz77-V3\lz77-V3\compressor.cpp(189,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lz77-V3\lz77-V3\compressor.cpp(260,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  lz77-V3.vcxproj -> C:\Users\User\source\repos\lz77-V3\Debug\lz77-V3.exe
